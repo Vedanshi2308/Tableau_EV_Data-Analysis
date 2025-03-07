@@ -9,3 +9,5 @@ To better understand market trends and adoption patterns, several visualizations
 - A **tree map** ranks the **top 10 electric vehicle models**, highlighting consumer preferences and the most popular models in the market.  
 
 This analysis provides valuable insights into the current landscape of electric vehicles, helping stakeholders assess growth trends, brand dominance, regional adoption, and incentive impact.
+
+**Note:** For this analysis, we will focus on data **from 2010 onwards** to ensure relevance and accuracy in identifying market trends, adoption patterns, and technological advancements in the electric vehicle industry. Data before 2010 will be excluded to maintain consistency with modern EV growth and development.
